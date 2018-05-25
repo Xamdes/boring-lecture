@@ -13,7 +13,7 @@ Rewrote site replace intro class with div.
 
 HTML, CSS and styling using div
 
-##installation
+## Installation
 Clone from https://github.com/xamdes/boring-lecture.git
 or https://github.com/bscott9592/boring_lecture.git
 
