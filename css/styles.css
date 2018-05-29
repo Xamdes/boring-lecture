@@ -21,3 +21,17 @@ img {
   color: red;
   font-size: 1em;
 }
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.show-border {
+  border-style: solid;
+  border-color: black;
+  border-width: 6px;
+  padding: 6px;
+  margin: 6px;
+  background-color: lightblue;
+}

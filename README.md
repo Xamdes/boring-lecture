@@ -11,7 +11,7 @@ Rewrote site replace intro class with div.
 
 ## Technology Used
 
-HTML, CSS and styling using div
+HTML, CSS, Bootstrap and javascript
 
 ## Installation
 Clone from https://github.com/xamdes/boring-lecture.git
