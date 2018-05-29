@@ -14,12 +14,15 @@ Rewrote site replace intro class with div.
 HTML, CSS, Bootstrap and javascript
 
 ## Installation
-Clone from https://github.com/xamdes/boring-lecture.git
-or https://github.com/bscott9592/boring_lecture.git
+Clone Links:
+  https://github.com/bscott9592/boring_lecture.git
+  https://github.com/xamdes/boring-lecture.git
+  https://github.com/WilliamKinzig/boring_lecture.git
 
 ## Credits
 Brian Palowski
 Steven Colburn
+William Kinzig
 
 ## License
 
